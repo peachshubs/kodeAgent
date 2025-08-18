@@ -1,7 +1,7 @@
 ## 🛠️ Tech Stack  
 
 ### 🎨 Frontend  
-- **HTML5
+- **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
 - **Vite**
